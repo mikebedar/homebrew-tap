@@ -19,8 +19,7 @@ cask "hoot" do
   ]
 
   caveats <<~EOS
-    To finish setting up Hoot:
-      1. Open Hoot once so Safari can find it:  open -a Hoot
-      2. In Safari → Settings → Extensions, turn on Hoot and allow it on youtube.com.
+    To finish setting up Hoot, run:  open -a Hoot
+    It takes you to Hoot in Safari → Settings → Extensions: tick Hoot and allow it on youtube.com.
   EOS
 end
