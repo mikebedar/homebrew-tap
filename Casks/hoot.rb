@@ -1,6 +1,6 @@
 cask "hoot" do
-  version "0.10.1"
-  sha256 "86be97737326928c6c72e0a3fb09bdea40251a9c9290b32e4735d5a66a0ac921"
+  version "0.11.0"
+  sha256 "b7e60f2ce902c1818287860f3df1140ce95937332f93746fd87ca993a2ec2f73"
 
   url "https://github.com/mikebedar/Hoot/releases/download/v#{version}/Hoot-#{version}.zip"
   name "Hoot"
